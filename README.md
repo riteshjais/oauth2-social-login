@@ -30,7 +30,7 @@ This Spring Boot project showcases the implementation of OAuth2 login functional
 2. Configure OAuth2 settings for GitHub and Google: Create OAuth2 applications on GitHub and Google developer platforms.
 3. Update application.properties or application.yml with the OAuth2 client credentials and redirect URIs.
 4. Build and run the Spring Boot application: ./mvnw spring-boot:run
-5. Navigate to http://localhost:8080
+5. Navigate to http://localhost:9090
 6. Use the GitHub or Google login buttons to authenticate.
 
 ![Oauth-flow](https://raw.githubusercontent.com/ali-bouali/oauth2-social-login/main/oauth2-flow.png)
